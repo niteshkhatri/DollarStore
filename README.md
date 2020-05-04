@@ -4,9 +4,7 @@ Our project is a simple implementation of database used in a website. Our websit
 
 ## Contributors
 
-Nitesh Kumar
-Saketh Reddy Basika
-Sandeep Reddy Gopu
+[Nitesh Kumar](https://github.com/niteshkhatri), Saketh Reddy Basika and Sandeep Reddy Gopu
 
 
 ## How to use
@@ -17,14 +15,11 @@ To run the website, follow below steps:
 3.	Open terminal at DollarStore path and run nodserver via command “nodemon”.
 4.	URL “localhost:4000” can be used in any browser to use the Dollar Store.
 
-*Note*
-*1.	Register with username "admin@admin.com" to use the admin account.*
-
-*2.	Grocery images should be saved with item name i.e item-name.jpg*
-
-*3.	Delete button in the Home Page is used to soft delete the items. However, delete button in the Archive Inventory page of admin account is used to permanently remove the item from database.*
-
-*4.	There should be only two tags to the product and they should be in the format “Laundry,Tide”.*
+Note:
+1.	Register with username "admin@admin.com" to use the admin account.
+2.	Grocery images should be saved with item name i.e item-name.jpg.
+3.	Delete button in the Home Page is used to soft delete the items. However, delete button in the Archive Inventory page of admin account is used to permanently remove the item from database.
+4.	There should be only two tags to the product and they should be in the format “Laundry,Tide”.
 
 ## Database Design
 
