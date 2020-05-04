@@ -1,0 +1,18 @@
+{
+    "_id" : ObjectId("5e90a99da5fc2d02e6826bb2"),
+    "userId" : "admin@admin.com",
+    "items" : [ 
+        {
+            "_id" : ObjectId("5e90a99da5fc2d02e6826bb3"),
+            "itemId" : "5e8fa348de7974b69808fbc9",
+            "quantity" : 1,
+            "price" : "2.45",
+            "name" : "Heinz EZ Squeeze Ketchup 20 Oz",
+            "imagePath" : "/items/Heinz EZ Squeeze Ketchup 20 Oz.jpg"
+        }
+    ],
+    "timestamp" : ISODate("2020-04-10T17:15:09.050Z"),
+    "totalPrice" : "2.45",
+    "deliveryAddress" : "851 Greenside Dr",
+    "__v" : 0
+}

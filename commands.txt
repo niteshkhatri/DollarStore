@@ -1,0 +1,3 @@
+mongoimport --db DollarStore --collection items --file store-data.json --jsonArray
+db.items.createIndex( { name: "text", description: "text" } )
+

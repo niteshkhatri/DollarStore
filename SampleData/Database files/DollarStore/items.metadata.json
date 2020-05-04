@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("5e8fa348de7974b69808fbc9"),
+    "available" : true,
+    "tags" : [ 
+        "Family Gathering", 
+        "Heinz"
+    ],
+    "name" : "Heinz EZ Squeeze Ketchup 20 Oz",
+    "description" : "America's favorite ketchup is now available in an innovative plastic bottle that uses up to 30% plant-based material and is recyclable as ever. .No wait, no mess ketchup stored on its cap is ready to pour when you are!",
+    "totalQuantity" : 98,
+    "pricePerItem" : 2.45,
+    "imagePath" : "/items/Heinz EZ Squeeze Ketchup 20 Oz.jpg",
+    "__v" : 0
+}

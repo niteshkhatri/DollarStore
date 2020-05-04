@@ -1,0 +1,5 @@
+{
+    "_id" : "3iYCXLepZXJaqCkGhMB17-ZfNwHZyFgC",
+    "expires" : ISODate("2020-05-16T15:38:39.245Z"),
+    "session" : "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"flash\":{},\"userId\":\"admin@admin.com\"}"
+}
