@@ -1,14 +1,674 @@
-{
-    "_id" : ObjectId("5e8fa348de7974b69808fbc9"),
-    "available" : true,
-    "tags" : [ 
-        "Family Gathering", 
-        "Heinz"
-    ],
-    "name" : "Heinz EZ Squeeze Ketchup 20 Oz",
-    "description" : "America's favorite ketchup is now available in an innovative plastic bottle that uses up to 30% plant-based material and is recyclable as ever. .No wait, no mess ketchup stored on its cap is ready to pour when you are!",
-    "totalQuantity" : 98,
-    "pricePerItem" : 2.45,
-    "imagePath" : "/items/Heinz EZ Squeeze Ketchup 20 Oz.jpg",
-    "__v" : 0
-}
+[
+    {
+        "_id" : ObjectId("5e8fa348de7974b69808fbc9"),
+        "available" : true,
+        "tags" : [ 
+            "Family Gathering", 
+            "Heinz"
+        ],
+        "name" : "Heinz EZ Squeeze Ketchup 20 Oz",
+        "description" : "America's favorite ketchup is now available in an innovative plastic bottle that uses up to 30% plant-based material and is recyclable as ever. .No wait, no mess ketchup stored on its cap is ready to pour when you are!",
+        "totalQuantity" : 98,
+        "pricePerItem" : 2.45,
+        "imagePath" : "/items/Heinz EZ Squeeze Ketchup 20 Oz.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e8fa3a8de7974b69808fbca"),
+        "available" : true,
+        "tags" : [ 
+            "Toothbrush", 
+            "Rexall"
+        ],
+        "name" : "Rexall Complete Clean Toothbrush -Soft, 2pk",
+        "description" : "Key Features:  Soft grip, Power Tip Bristles help remove hard to reach plaque from the back of teeth, Tongue cleaner.",
+        "totalQuantity" : 95,
+        "pricePerItem" : "2",
+        "imagePath" : "/items/Rexall Complete Clean Toothbrush -Soft, 2pk.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e8fa3d3de7974b69808fbcb"),
+        "available" : true,
+        "tags" : [ 
+            "Laundry Cleaning", 
+            "Gain"
+        ],
+        "name" : "Gain + Aromaboost Liquid Laundry Detergent, Fresh Water Sparkle, 48 Loads, 75 Fl Oz",
+        "description" : "Gain Liquid Laundry Detergent in Fresh Water Sparkle Scent. Washing your clothes never smelled so good.",
+        "totalQuantity" : 95,
+        "pricePerItem" : "7.50",
+        "imagePath" : "/items/Gain + Aromaboost Liquid Laundry Detergent, Fresh Water Sparkle, 48 Loads, 75 Fl Oz.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e8fbf00a5fc2d02e6826b87"),
+        "available" : true,
+        "tags" : [ 
+            "Laundry Cleaning", 
+            "Tide"
+        ],
+        "name" : "Tide PODS Liquid Laundry Detergent Pacs, Spring Meadow, 72 Count",
+        "description" : "The new and improved Tide PODS laundry detergent pacs are super concentrated with 90 percent cleaning ingredients to rejuvenate even dingy clothes for brighter brights and whiter whites, wash after wash. Each Tide PODS is a 3-in-1 breakthrough laundry solution with highly concentrated detergent, stain remover and color protector, giving you more bang for your buck",
+        "totalQuantity" : 99,
+        "pricePerItem" : "17.95",
+        "imagePath" : "/items/Tide PODS Liquid Laundry Detergent Pacs, Spring Meadow, 72 Count.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909a71a5fc2d02e6826b88"),
+        "available" : true,
+        "tags" : [ 
+            "Planters & Flower Pots", 
+            "Trueliving"
+        ],
+        "name" : "Trueliving 15 In. Deck Planter - Assorted",
+        "description" : "Brighten up any indoor or outdoor area with a Trueliving 15 in. Deck Planter. Its size and look make it perfect for almost any plant! Product ships in assorted styles based on warehouse availability.",
+        "totalQuantity" : 99,
+        "pricePerItem" : "8",
+        "imagePath" : "/items/Trueliving 15 In. Deck Planter - Assorted.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909acba5fc2d02e6826b89"),
+        "available" : false,
+        "tags" : [ 
+            "Planters & Flower Pots", 
+            "Trueliving"
+        ],
+        "name" : "Trueliving 16 In. Floral Swirl Planter - Assorted",
+        "description" : "Decorate your outdoor areas with a Trueliving 16 in. Floral Swirl Planter. Your deck or patio will thank you! Product ships in assorted styles based on warehouse availability.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "10",
+        "imagePath" : "/items/Trueliving 16 In. Floral Swirl Planter - Assorted.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909b33a5fc2d02e6826b8a"),
+        "available" : true,
+        "tags" : [ 
+            "Planters & Flower Pots", 
+            "Trueliving"
+        ],
+        "name" : "Trueliving 12 In. Swirl Planter - Assorted",
+        "description" : "Brighten up any indoor or outdoor area with a Trueliving 12 in. Swirl Planter. Its size and look make it perfect for almost any plant! Product ships in assorted styles based on warehouse availability.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "6.5",
+        "imagePath" : "/items/Trueliving 12 In. Swirl Planter - Assorted.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909b8fa5fc2d02e6826b8b"),
+        "available" : true,
+        "tags" : [ 
+            "Outdoor Furniture", 
+            "Trueliving"
+        ],
+        "name" : "Trueliving Widebody Sling Lounger Chair - Assorted",
+        "description" : "Kick back and relax this summer by sitting in one of our Trueliving Widebody Sling Lounger Chairs. Quantities and selection may vary by location. Check your local Dollar General store for availability.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "25",
+        "imagePath" : "/items/Trueliving Widebody Sling Lounger Chair - Assorted.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909bd6a5fc2d02e6826b8c"),
+        "available" : true,
+        "tags" : [ 
+            "Outdoor Furniture", 
+            "Trueliving"
+        ],
+        "name" : "Trueliving High Back Sling Chair",
+        "description" : "Kick back and relax this summer by sitting in one of our Trueliving High Back Sling Chairs. Quantities and selection may vary by location. Check your local Dollar General store for availability.",
+        "totalQuantity" : 98,
+        "pricePerItem" : "20",
+        "imagePath" : "/items/Trueliving High Back Sling Chair.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909c4ba5fc2d02e6826b8d"),
+        "available" : true,
+        "tags" : [ 
+            "Insect & Pest Control", 
+            "Hot Shot"
+        ],
+        "name" : "Hot Shot Aerosol Spray, Flying Insect Killer, 15 Oz",
+        "description" : "This insect killer is a fresh scent aerosol spray that kills fast, plus keeps killing bugs that land on treated surfaces for up to four weeks. Gets rid of wasps, hornets, yellow jackets, bees, houseflies, mosquitoes, cluster flies, gnats, fruit flies, and flying moths. Water-based formula is non-staining and leaves no oily residue.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "3.75",
+        "imagePath" : "/items/Hot Shot Aerosol Spray, Flying Insect Killer, 15 Oz.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909c98a5fc2d02e6826b8e"),
+        "available" : true,
+        "tags" : [ 
+            "Insect & Pest Control", 
+            "Hot Shot"
+        ],
+        "name" : "Hot Shot Ant Bait - Max Attrax, 8ct",
+        "description" : "Hot Shot(r) MaxAttrax(r) Ant Bait Child-Resistant Bait Stations work in 24 hours, killing the queen and destroying the colony. The unique attractant in the bait stations gets ants to the bait fast, so they die fast. The stations last for months so you have continued protection",
+        "totalQuantity" : 97,
+        "pricePerItem" : "4.25",
+        "imagePath" : "/items/Hot Shot Ant Bait - Max Attrax, 8ct.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909d27a5fc2d02e6826b8f"),
+        "available" : true,
+        "tags" : [ 
+            "Laundry Cleaning", 
+            "Tide"
+        ],
+        "name" : "Tide Simply Clean & Fresh Liquid Laundry Detergent, Refreshing Breeze, 22 Loads 34 Fl Oz",
+        "description" : "Tide Simply Clean and Fresh liquid laundry detergent has 2X the baking soda power* to target tough odors deep in the fibers of your clothes. It is now more concentrated to provide more stain removal and freshness and less water*",
+        "totalQuantity" : 100,
+        "pricePerItem" : "2.95",
+        "imagePath" : "/items/Tide Simply Clean & Fresh Liquid Laundry Detergent, Refreshing Breeze, 22 Loads 34 Fl Oz.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909d5ba5fc2d02e6826b90"),
+        "available" : true,
+        "tags" : [ 
+            "Laundry Cleaning", 
+            "Downy"
+        ],
+        "name" : "Downy Cool Cotton Liquid Fabric Conditioner (Fabric Softener), 90 Loads 77 Fl Oz",
+        "description" : "Downy Ultra Cool Cotton Fabric Conditioner softens, freshens, and protects your clothes from stretching, fading, and fuzz, leaving them with a long-lasting fresh scent. This conditioning fabric softener will transport your senses to a cool, crisp day with freshly-washed linens floating in the breeze",
+        "totalQuantity" : 100,
+        "pricePerItem" : "6.95",
+        "imagePath" : "/items/Downy Cool Cotton Liquid Fabric Conditioner (Fabric Softener), 90 Loads 77 Fl Oz.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909d90a5fc2d02e6826b91"),
+        "available" : true,
+        "tags" : [ 
+            "Laundry Cleaning", 
+            "Gain"
+        ],
+        "name" : "Gain Scent Blast Liquid Fabric Softener, Midnight Bloom, 81 Fl Oz 120 Loads",
+        "description" : "Hold onto your laundry basket and get ready for an extreme scent experience with Gain’s fragrance: Midnight Bloom. Lovingly wrap yourself in a lively fragrance with an undeniable perfume of jasmine, amber, and floral richness. Ahhhh, that’s right",
+        "totalQuantity" : 100,
+        "pricePerItem" : "9.95",
+        "imagePath" : "/items/Gain Scent Blast Liquid Fabric Softener, Midnight Bloom, 81 Fl Oz 120 Loads.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909deda5fc2d02e6826b92"),
+        "available" : true,
+        "tags" : [ 
+            "All Purpose Cleaners", 
+            "Clorox"
+        ],
+        "name" : "Clorox Disinfecting Wipes Value Pack, Bleach Free Cleaning Wipes - 75 Count Each, 2pk",
+        "description" : "Clorox Disinfecting Wipes is an all-purpose wipe that cleans and disinfects with antibacterial power killing 99.9% of viruses and bacteria. These disposable wipes remove common allergens, germs and messes on kitchen counters, bathroom surfaces and more",
+        "totalQuantity" : 100,
+        "pricePerItem" : "8.5",
+        "imagePath" : "/items/Clorox Disinfecting Wipes Value Pack, Bleach Free Cleaning Wipes - 75 Count Each, 2pk.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909e24a5fc2d02e6826b93"),
+        "available" : true,
+        "tags" : [ 
+            "All Purpose Cleaners", 
+            "Clorox"
+        ],
+        "name" : "Clorox Bleach Gel Cleaner Spray, 30 Ounces",
+        "description" : "Clorox Bleach Gel Cleaner Spray eliminates the toughest stains throughout your home. Use it on tile, bathtubs, showers, sinks, counters, appliances, stainless steel and more. Its gel formula cleans and deodorizes without splashing, and its Smart Tube technology insures you will get every drop",
+        "totalQuantity" : 97,
+        "pricePerItem" : "3.75",
+        "imagePath" : "/items/Clorox Bleach Gel Cleaner Spray, 30 Ounces.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909e66a5fc2d02e6826b94"),
+        "available" : true,
+        "tags" : [ 
+            "All Purpose Cleaners", 
+            "Fantastik"
+        ],
+        "name" : "Fantastik Fresh Scent All Purpose Cleaner - 32 Oz",
+        "description" : "Fantastik Fresh Scent Multi-Purpose cleaner kills 99.9% of bacteria and kills the viruses that cause the common cold and flu. It also wipes out tough grease and grime to keep your kitchen cleaner.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "2.95",
+        "imagePath" : "/items/Fantastik Fresh Scent All Purpose Cleaner - 32 Oz.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909eb8a5fc2d02e6826b95"),
+        "available" : true,
+        "tags" : [ 
+            "All Purpose Cleaners", 
+            "Windex"
+        ],
+        "name" : "Windex Glass Cleaner Trigger Bottle, Vinegar, 26 Fl Oz",
+        "description" : "Give glass surfaces a streak-free shine with vinegar. Windex Vinegar Glass Cleaner is formulated with vinegar and doesn't leave behind the smell of ammonia. It's safe to use on all glass surfaces. Give Life a Sparkle with Windex cleaners! Use to clean: windows, mirrors, glass and more.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "3.25",
+        "imagePath" : "/items/Windex Glass Cleaner Trigger Bottle, Vinegar, 26 Fl Oz.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909f19a5fc2d02e6826b96"),
+        "available" : true,
+        "tags" : [ 
+            "Dog Food", 
+            "Pedigree"
+        ],
+        "name" : "Pedigree Chopped Ground Dinner Variety Pack Wet Dog Food, Chicken/Beef, 8 Ct",
+        "description" : "Mix it up. Wet dry. Dogs love it! Feed the Good. Dogs bring out the good in us. Pedigree brings out the good int them. It all starts with tasty food they love and perfect nutrition to keep them healthy and happy.",
+        "totalQuantity" : 99,
+        "pricePerItem" : "4.8",
+        "imagePath" : "/items/Pedigree Chopped Ground Dinner Variety Pack Wet Dog Food, Chicken:Beef, 8 Ct.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909f4da5fc2d02e6826b97"),
+        "available" : true,
+        "tags" : [ 
+            "Dog Food", 
+            "Cesar"
+        ],
+        "name" : "Cesar Canine Cuisine Variety Pack Top Sirloin & Grilled Chicken Flavor Dog Food, 12 Count",
+        "description" : "Dogs with sophisticated palates will enjoy a rich culinary experience with CESAR Canine Cuisine Gourmet Wet Dog Food in meaty juices or in sauce. From large to small dogs, indulge your pampered pooch with poultry selections that make their mouth water and tail wag",
+        "totalQuantity" : 100,
+        "pricePerItem" : "10",
+        "imagePath" : "/items/Cesar Canine Cuisine Variety Pack Top Sirloin & Grilled Chicken Flavor Dog Food, 12 Count.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909f7ba5fc2d02e6826b98"),
+        "available" : true,
+        "tags" : [ 
+            "Dog Food", 
+            "Pedigree"
+        ],
+        "name" : "Pedigree Small Dog Adult Complete Nutrition Dry Dog Food, Roasted Chicken, Rice & Vegetable, 3.5 Lb",
+        "description" : "Feed the good™ Dogs bring out the good in us.™ Pedigree brings out the good in them.™ Can dogs help us to become better people? Pedigree® brand believes they can. Dogs give us unconditional love without judgment, teach us to be more compassionate, and remind us to live every day to the fullest.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "5",
+        "imagePath" : "/items/Pedigree Small Dog Adult Complete Nutrition Dry Dog Food, Roasted Chicken, Rice & Vegetable, 3.5 Lb.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e909fbda5fc2d02e6826b99"),
+        "available" : true,
+        "tags" : [ 
+            "Cat Food", 
+            "Meow"
+        ],
+        "name" : "Meow Mix Poultry & Beef Variety Pack - 12 CT",
+        "description" : "Irresistible taste cats love! Meow Mix Tender Favorites poultry & beef variety pack has the perfect mix of tastes your cat will love. Made with juicy pieces of real chicken, beef or Turkey to make every mealtime irresistibly delicious.",
+        "totalQuantity" : 99,
+        "pricePerItem" : "5.75",
+        "imagePath" : "/items/Meow Mix Poultry & Beef Variety Pack - 12 CT.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a046a5fc2d02e6826b9a"),
+        "available" : true,
+        "tags" : [ 
+            "Cat Food", 
+            "Purina"
+        ],
+        "name" : "Purina Friskies Tasty Treasures Variety Pack Cat Food 12-5.5 Oz. Cans",
+        "description" : "Stock your pantry with this Purina Friskies Tasty Treasures wet cat food variety pack, and give your cat mealtime options that provide 100% complete and balanced nutrition for adult cats. This variety pack contains Tasty Treasures With Ocean Fish, Tasty Treasures With Tuna & Cheese, and Tasty Treasures With Turkey & Cheese, delivering the poultry and seafood flavors she adores.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "6.95",
+        "imagePath" : "/items/Purina Friskies Tasty Treasures Variety Pack Cat Food 12-5.5 Oz. Cans.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a075a5fc2d02e6826b9b"),
+        "available" : true,
+        "tags" : [ 
+            "Cat Food", 
+            "9Lives"
+        ],
+        "name" : "9Lives Pate Favorites Variety Pack Wet Cat Food, 12 Can Pack",
+        "description" : "Indulge your cat with the tender textures of 9Lives Paté Favorites Variety Pack cat food. Three decadent flavors feature soft, tender grounds made with real chicken or fish in an irresistible sauce for the taste they love with the nutrition they need for a long, healthy life.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "4.5",
+        "imagePath" : "/items/9Lives Pate Favorites Variety Pack Wet Cat Food, 12 Can Pack.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a0d5a5fc2d02e6826b9c"),
+        "available" : true,
+        "tags" : [ 
+            "Vitamins", 
+            "Rexall"
+        ],
+        "name" : "Rexall Naturalist High Potency Calcium, Magnesium, & Zinc Tablets, 100 Ct.",
+        "description" : "Calcium Magnesium and Zinc provides you with three important minerals that all contributes to strong, healthy bones.* Calcium supports bone strength and density; Magnesium is essential for bone structure; and Zinc is involved in collagen synthesis in bone tissue.* This high-potency formula also provides support for healthy muscle contractions and nerve impulses, in vegetarian-friendly caplets.*",
+        "totalQuantity" : 100,
+        "pricePerItem" : "5",
+        "imagePath" : "/items/Rexall Naturalist High Potency Calcium, Magnesium, & Zinc Tablets, 100 Ct..jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a107a5fc2d02e6826b9d"),
+        "available" : true,
+        "tags" : [ 
+            "Vitamins", 
+            "Vitafusion"
+        ],
+        "name" : "Vitafusion Women’s Multivitamin Energy, Metabolism & Bone Support, 50 Ct Gummy",
+        "description" : "Vitafusion Women’s Multivitamin Energy, Metabolism & Bone Support Gummy is a delicious natural berry gummy formula that promotes healthy metabolism and bone health. Contains a comprehensive blend featuring vitamins A, C, D and E, as well as 6 different B vitamins. Calcium, iodine, phosphorus and chromium are included as well.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "5",
+        "imagePath" : "/items/Vitafusion Women’s Multivitamin Energy, Metabolism & Bone Support, 50 Ct Gummy.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a12ea5fc2d02e6826b9e"),
+        "available" : true,
+        "tags" : [ 
+            "Vitamins", 
+            "Rexall"
+        ],
+        "name" : "Rexall Sublingual B-12 5000 Mcg Tablets, 60 Ct.",
+        "description" : "Used as a supplement, Rexall®'s Sublingual B-12 5000 mcg tablets support energy, metabolism, and nervous system health.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "8",
+        "imagePath" : "/items/Rexall Sublingual B-12 5000 Mcg Tablets, 60 Ct..jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a17ca5fc2d02e6826b9f"),
+        "available" : true,
+        "tags" : [ 
+            "Exercise & Fitness", 
+            "Pro Strength"
+        ],
+        "name" : "Pro Strength Kettlebell, 10lb",
+        "description" : "The 10 lb. kettlebell is ideal for resistance training and body sculpting. Comfortable, slip-free construction.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "11.5",
+        "imagePath" : "/items/Pro Strength Kettlebell, 10lb.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a1c9a5fc2d02e6826ba0"),
+        "available" : true,
+        "tags" : [ 
+            "Exercise & Fitness", 
+            "Pro Strength"
+        ],
+        "name" : "Pro Strength Dumbbell, 7lb",
+        "description" : "The 7 lb. dumbbell is ideal for resistance training and body sculpting. Comfortable, slip-free construction.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "8.5",
+        "imagePath" : "/items/Pro Strength Dumbbell, 7lb.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a1f5a5fc2d02e6826ba1"),
+        "available" : true,
+        "tags" : [ 
+            "Exercise & Fitness", 
+            "Pro Strength"
+        ],
+        "name" : "Pro Strength Yoga Mat Heavy Duty 24\"X68\"",
+        "description" : "Heavy duty yoga mat 22\"x68\" provides superior grip and promotes balance and stability during workouts. Lightweight material is easy to transport.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "7.5",
+        "imagePath" : "/items/Pro Strength Yoga Mat Heavy Duty 24%22X68%22.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a229a5fc2d02e6826ba2"),
+        "available" : true,
+        "tags" : [ 
+            "Exercise & Fitness", 
+            "Pro Strength"
+        ],
+        "name" : "Pro Strength Bottle Shaker",
+        "description" : "The Shaker Bottle consists of a tight sealing lid with a mixer inside to help combine protein powder with liquid.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "4.5",
+        "imagePath" : "/items/Pro Strength Bottle Shaker.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a2d8a5fc2d02e6826ba3"),
+        "available" : true,
+        "tags" : [ 
+            "Soap & Body Wash", 
+            "Dove"
+        ],
+        "name" : "Dove Sensitive Skin Body Wash, 22 Oz Bottle",
+        "description" : "Those of us with sensitive skin know all too well that it needs special care – and how much of a relief it is when we find a body wash that provides that. That's because the formula has mild cleansers and NutriumMoisture to help maintain skin's natural moisture and deposits skin natural ingredients. Dove Sensitive Skin Body Wash helps to maintain your skin's natural moisture as you wash, and leaves you with softer, smoother skin after just one shower.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "6",
+        "imagePath" : "/items/Dove Sensitive Skin Body Wash, 22 Oz Bottle.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a30ca5fc2d02e6826ba4"),
+        "available" : true,
+        "tags" : [ 
+            "Soap & Body Wash", 
+            "Dove"
+        ],
+        "name" : "Dove Deep Moisture Body Wash Pump, 34 Oz",
+        "description" : "Dove Deep Moisture Body Wash gives you softer, smoother skin after just one shower100% gentle cleansers, Sulfate free#1 Dermatologist RecommendedMoisturizing body wash minimizes skin drynessFormula with NutriumMoisture technology delivers skin natural nutrients and nourishes deep into the surface layers of the skinAllure Best of Beauty Award WinnerThis #1 dermatologist recommended moisturizing body wash from Dove combines NutriumMoisture with 100% gentle cleansers to help your skin retain its natural moisture.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "9",
+        "imagePath" : "/items/Dove Deep Moisture Body Wash Pump, 34 Oz.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a33ba5fc2d02e6826ba5"),
+        "available" : true,
+        "tags" : [ 
+            "Soap & Body Wash", 
+            "Dove"
+        ],
+        "name" : "Dove Sensitive Skin 3.15oz.. 6 Bar",
+        "description" : "Dove® Sensitive Skin Unscented Beauty Bar pampers sensitive skin with Dove® ¼ moisturizing cream, and a truly mild formula that's fragrance-free, hypoallergenic and unscented. Dove® is the #1 cleansing bar recommended by dermatologists and pediatricians.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "6",
+        "imagePath" : "/items/Dove Sensitive Skin 3.15oz.. 6 Bar.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a380a5fc2d02e6826ba6"),
+        "available" : true,
+        "tags" : [ 
+            "Toothpaste", 
+            "Colgate"
+        ],
+        "name" : "Colgate Total Whitening Toothpaste, 4.8 Oz. 2-Pack",
+        "description" : "New Colgate Total SF Whitening Toothpaste has a breakthrough formula that fights bacteria on teeth, tongue, cheeks and gums for Whole Mouth Health. New Colgate Total with stannous fluoride also offers more benefits than ever including sensitivity relief, improved enamel strength* and odor neutralization* (*based on in vitro studies).",
+        "totalQuantity" : 100,
+        "pricePerItem" : "5",
+        "imagePath" : "/items/Colgate Total Whitening Toothpaste, 4.8 Oz. 2-Pack.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a3b9a5fc2d02e6826ba7"),
+        "available" : true,
+        "tags" : [ 
+            "Toothpaste", 
+            "Crest"
+        ],
+        "name" : "Crest + Scope Complete Whitening Toothpaste, Minty Fresh, 5.4 Oz, Pack Of 2",
+        "description" : "Get the freshness of Scope in a toothpaste. Crest + Scope Complete Whitening Toothpaste has the benefits of Crest toothpaste with the addition of Scope freshness. Kill millions of bad breath germs* and leave your breath feeling minty and refreshed. Regular brushing with fluoride toothpaste helps prevent tooth decay by slowing the breakdown of enamel and increases the rate of the remineralization process. This toothpaste fights cavities and tartar build-up.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "5",
+        "imagePath" : "/items/Crest + Scope Complete Whitening Toothpaste, Minty Fresh, 5.4 Oz, Pack Of 2.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a407a5fc2d02e6826ba8"),
+        "available" : true,
+        "tags" : [ 
+            "Toothbrushes", 
+            "Colgate"
+        ],
+        "name" : "Colgate 360 Toothbrush Value Pack, Medium, 2 Count",
+        "description" : "Colgate 360 manual toothbrush is designed with cleaning bristles and polishing cups that help remove more plaque and stains than an ordinary flat-trim toothbrush. It also has a unique cheek and tongue cleaner that helps reduce 151% more bacteria that causes bad breath versus brushing teeth alone with an ordinary flat-trim toothbrush.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "5",
+        "imagePath" : "/items/Colgate 360 Toothbrush Value Pack, Medium, 2 Count.jpeg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a438a5fc2d02e6826ba9"),
+        "available" : true,
+        "tags" : [ 
+            "Toothbrushes", 
+            "Oral-B"
+        ],
+        "name" : "Oral-B 3D White Battery Powered Toothbrush, 1 Count, Colors May Vary",
+        "description" : "The Oral-B 3D White Battery Power Toothbrush features a brush head with Rubberized Bristles and an Action Cup that help whiten teeth by removing surface stains. Brush heads should be replaced every 3 months. Compatible with Oral-B Deep Clean, Pro-Health and 3D White replacement heads. AA Battery included.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "7",
+        "imagePath" : "/items/Oral-B 3D White Battery Powered Toothbrush, 1 Count, Colors May Vary.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a488a5fc2d02e6826baa"),
+        "available" : true,
+        "tags" : [ 
+            "Toothbrushes", 
+            "Rexall"
+        ],
+        "name" : "Rexall Massage & Tongue Cleaner Toothbrushes - Soft, 4 Ct",
+        "description" : "Rexall Massage & Tongue Cleaner Toothbrushes - Soft, 4 Ct.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "3",
+        "imagePath" : "/items/Rexall Massage & Tongue Cleaner Toothbrushes - Soft, 4 Ct.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a4e2a5fc2d02e6826bab"),
+        "available" : true,
+        "tags" : [ 
+            "Mouthwash", 
+            "Listerine"
+        ],
+        "name" : "Listerine Antiseptic Mouthwash - FreshBurst- 500 ML",
+        "description" : "Get fresh breath and protect your oral health with Freshburst Listerine Antiseptic Mouthwash. Clinically shown to reduce 52 percent more plaque and 21 percent more gingivitis than brushing and flossing alone, this mouthwash provides a deep clean that cares for your whole mouth.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "4",
+        "imagePath" : "/items/Listerine Antiseptic Mouthwash - FreshBurst- 500 ML.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a51ca5fc2d02e6826bac"),
+        "available" : true,
+        "tags" : [ 
+            "Mouthwash", 
+            "Listerine"
+        ],
+        "name" : "Listerine Original Antiseptic Mouthwash - 1 Liter",
+        "description" : "Get fresh breath and protect your oral health with Original Listerine Antiseptic Mouthwash. Clinically shown to reduce 52percent more plaque and 21 percent more gingivitis than brushing and flossing alone, this mouthwash provides a deep clean that cares for your whole mouth.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "5.5",
+        "imagePath" : "/items/Listerine Original Antiseptic Mouthwash - 1 Liter.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a54ca5fc2d02e6826bad"),
+        "available" : true,
+        "tags" : [ 
+            "Mouthwash", 
+            "DG Health"
+        ],
+        "name" : "DG Health Antiseptic Mouth Rinse - Blue Mint- 1.5 Liters",
+        "description" : "DG Health A0414 M/Wash Blue Mi",
+        "totalQuantity" : 100,
+        "pricePerItem" : "3",
+        "imagePath" : "/items/DG Health Antiseptic Mouth Rinse - Blue Mint- 1.5 Liters.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a575a5fc2d02e6826bae"),
+        "available" : true,
+        "tags" : [ 
+            "Mouthwash", 
+            "Crest"
+        ],
+        "name" : "Crest Pro-Health Multi-Protection Alcohol Free Clean Mint CPC Antigingivitis/Antiplaque Mouthwash 33.8 Fl. Oz. Bottle",
+        "description" : "You can make a difference in your oral health starting today. Advance to a Healthier Mouth from Day 1* with Crest Pro-Health Multi-Protection Mouthwash which starts fighting plaque from day 1. It’s possible to kill germs deep in your mouth without the burn of alcohol.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "5",
+        "imagePath" : "/items/Crest Pro-Health Multi-Protection Alcohol Free Clean Mint CPC Antigingivitis:Antiplaque Mouthwash 33.8 Fl. Oz. Bottle.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a5e6a5fc2d02e6826baf"),
+        "available" : true,
+        "tags" : [ 
+            "Deodorants & Antiperspirants", 
+            "Degree"
+        ],
+        "name" : "Degree Women Anti-Perspirant & Deodorant Invisible Solid- Sheer Powder - 2 Pack- 2.6 Oz Each",
+        "description" : "Degree Women Antiperspirant Deodorant is our original formula that is specially formulated to give you the confidence to keep you moving with all -day protection against sweat and odor. You can be confident that you'll stay dry and be free to live your life all day.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "4.5",
+        "imagePath" : "/items/Degree Women Anti-Perspirant & Deodorant Invisible Solid- Sheer Powder - 2 Pack- 2.6 Oz Each.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a619a5fc2d02e6826bb0"),
+        "available" : true,
+        "tags" : [ 
+            "Deodorants & Antiperspirants", 
+            "Speed"
+        ],
+        "name" : "Speed Stick Deodorant, Regular, 1.8 Oz",
+        "description" : "Its time to be your own man in a world where the old patterns, rules and stages of progression are being redefined. Achieving your dreams takes courage when it counts. Feel clean, masculine and confident with Speed Stick Deodorant for Men, Regular scent. Odor fighting formula that provides 24 hour freshness for maximum confidence. Includes comfort guard applicator for comfort and control.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "1",
+        "imagePath" : "/items/Speed Stick Deodorant, Regular, 1.8 Oz.jpeg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5e90a645a5fc2d02e6826bb1"),
+        "available" : true,
+        "tags" : [ 
+            "Deodorants & Antiperspirants", 
+            "Dove"
+        ],
+        "name" : "Dove Powder Fresh Antiperspirant Deodorant, 2.6 Oz",
+        "description" : "Love the feeling of softness? Dove Invisible Solid Powder Antiperspirant Deodorant Powder 2.6 oz pampers underarm skin with a familiar and comforting soft powder scent. With an alcohol (ethanol) free formula, this Dove antiperspirant leaves skin soft and nourished. Like all Dove antiperspirant deodorant products, this product contains Dove ¼ moisturizers to offer excellent underarm care and help reduce skin irritation that can be caused by shaving.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "3",
+        "imagePath" : "/items/Dove Powder Fresh Antiperspirant Deodorant, 2.6 Oz.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5eaee5e30fa52c6f2f55394f"),
+        "available" : true,
+        "tags" : [ 
+            "Eye Cosmetics", 
+            "Maybelline"
+        ],
+        "name" : "Maybelline New York Lash Sensational Luscious Washable Mascara - Blackest Black",
+        "description" : "Indulge in lash luxuries. This washable mascara is infused with precious oils for a full fanning effect.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "8",
+        "imagePath" : "/items/16907001_zzz_1.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("5eaee7e80fa52c6f2f553953"),
+        "available" : true,
+        "tags" : [ 
+            "Cold Drinks", 
+            "Coca Cola"
+        ],
+        "name" : "Coca-Cola Bottle, 2 Liters",
+        "description" : "Coca-Cola Bottle, 2 Liters: Enjoy Coca-Cola’s crisp, delicious taste with meals, on the go, or to share. Serve ice cold for maximum refreshment.",
+        "totalQuantity" : 100,
+        "pricePerItem" : "2",
+        "imagePath" : "/items/00049000050103_main.jpg",
+        "__v" : 0
+    }
+]
